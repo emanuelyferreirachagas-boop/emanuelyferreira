@@ -42,38 +42,3 @@
        </main>
 </body>
 </html>
-
-                background-color: #183c63;
-                color: #FFFFFF;
-                text-align: center;
-                max-width: 800px;
-                margin: 0 auto;
-                padding: 16px;
-            }
-            main {
-                background-color: #cf1010
-                color:#183c63
-                max-width: 800px;
-                margin: 0 auto;
-                padding: 16px;
-            }
-            img{
-                width: 80px;
-                height: 80px;
-            }
-        </style>
-    </head>
-    <body>
-        <header>
-        <h1>Meu Blog Tech</h1>
-        <p>vou compartilhar conhecimentos sobre tecnologia e programação</p>
-        </header>
-        <main>
-            <img src="imagem-blog.png" alt="Logotipo TECOEDUC: livro aberto em cima de um notebook com elementos de tecnologia, educação e um foguete, em tons de azul e laranja.">
-       <h2>Meu primeiro post</h2>
-       <p>por: Emanuely Ferreira</p>
-        <p>Boas-Vindas ao meu novo Blog! Aqui vou compartilhar dicas de programação e curiosidades da área de tecnologia.</p>
-      </header>
-       </main>
-</body>
-</html>
