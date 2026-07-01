@@ -4,15 +4,7 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Blog</title>
-        <style>
-            header{ 
-<!DOCTYPE html>
-<html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Blog</title>
-        <style>
+        <style>Ícone minimalista em estilo plano (flat art) sobre fundo branco, representando a união de tecnologia e educação. No centro, há um livro aberto em tons de azul, com uma engrenagem cinza sobreposta. Dentro da engrenagem, destaca-se uma lâmpada acesa amarela, simbolizando uma ideia. Acima do livro, saem conexões de circuitos eletrônicos, outra pequena lâmpada e um chapéu de formatura (capelo) azu
             header{ 
                 background-color: #183c63;
                 color: #FFFFFF;
@@ -20,24 +12,31 @@
                 max-width: 800px;
                 margin: 0 auto;
                 padding: 16px;
+                border: 5px solid gray;
             }
             main {
-                background-color: #cf1010
+                background-color: #ffffff
                 color:#183c63
                 max-width: 800px;
                 margin: 0 auto;
                 padding: 16px;
+                border: 5px solid gray;
+            }
+            img{
+                width:80px;
+                height:80px;
             }
         </style>
     </head>
     <body>
         <header>
-        <h1>Meu Blog sobre a seri; The Vampire Diaries</h1>
-        <p>vou compartilhar com vocês um pouco do meu conhecimeno sobre a série</p>
+        <h1>Meu Blog Tech</h1>
+        <p>vou compartilhar conhecimentos sobre tecnologia e programação</p>
         </header>
         <main>
+            <img src="imagem.jpg" alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
        <h2>Meu primeiro post</h2>
-        <p>Boas-Vindas ao meu novo Blog! Aqui vou compartilhar um pouco do meu conhecimento sobre a série!</p>
+        <p>Boas-Vindas ao meu novo Blog! Aqui vou compartilhar meu conhecimento sobre tecnologia e programação!</p>
       </header>
        </main>
 </body>
