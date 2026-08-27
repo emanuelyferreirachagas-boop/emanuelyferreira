@@ -12,7 +12,7 @@
                 max-width: 800px;
                 margin: 0 auto;
                 padding: 16px;
-                border: 5px solid gray;
+                border: 5px solid #FFFFFF;
             }
             main {
                 background-color: #ffffff
@@ -20,6 +20,7 @@
                 max-width: 800px;
                 margin: 0 auto;
                 padding: 16px;
+                display: flex;
                 border: 5px solid gray;
             }
             img{
@@ -34,8 +35,9 @@
         <p>vou compartilhar conhecimentos sobre tecnologia e programação</p>
         </header>
         <main>
-            <img src="imagem.jpg" alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <img src="imagem.png" alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
        <h2>Meu primeiro post</h2>
+       <p>Por: Emanuely Ferreira Chagas</p>
         <p>Boas-Vindas ao meu novo Blog! Aqui vou compartilhar meu conhecimento sobre tecnologia e programação!</p>
       </header>
        </main>
