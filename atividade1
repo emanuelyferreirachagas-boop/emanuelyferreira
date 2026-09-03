@@ -1,65 +1,86 @@
 <!DOCTYPE html>
 <html lang="pt-br">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Blog</title>
-        <style>
-               header {
-                 background-color: #183c63;
-                color: #FFFFFF;
-                text-align: center;
-                max-width: 800px;
-                margin: 0 auto;
-                padding: 16px;
-                border: 5px solid #FFFFFF;
-            }
-            main {
-                background-color: #ffffff
-                color:#183c63
-                max-width: 800px;
-                margin: 0 auto;
-                padding: 16px;
-                display: flex;
-                border: 5px solid gray;
-            }
-            img{
-                width:80px;
-                height:80px;
-            }
-            .artigo-autor{
-                font-weight: bold;
-            }
-        </style>
-    </head>
-    <body>
-        <header>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog</title>
+    <style>
+        header {
+            background-color: #183c63;
+            color: #FFFFFF;
+            text-align: center;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            border: 5px solid #FFFFFF;
+        }
+
+        main {
+            background-color: #ffffff color:#183c63 max-width: 800px;
+            margin: 0 auto;
+            padding: 16px;
+            border: 5px solid gray;
+        }
+        article{
+         display: flex;
+        }
+
+        img {
+            width: 80px;
+            height: 80px;
+        }
+
+        .artigo-autor {
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
         <h1>Meu Blog Tech</h1>
         <p>vou compartilhar conhecimentos sobre tecnologia e programação</p>
 
-    <main>
-            <img src="imagem.png" alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
-    <div>
-        <h2>Meu primeiro post</h2>
-        <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
-        <p>Boas-Vindas ao meu novo Blog! Aqui vou compartilhar meu conhecimento sobre tecnologia e programação!</p>
-        <button>❤️ <span>0</span></button>
-        <button>👍​ <span>0</span></button>
-    </div>
-    </main>
+            <main>
+            <article>
+            <img src="imagem.png"
+                    alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <div>
+                    <h2>Meu primeiro post</h2>
+                    <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
+                    <p>Boas-Vindas ao meu novo Blog! Aqui vou compartilhar meu conhecimento sobre tecnologia e programação!
+                    </p>
+                    <button>❤️ <span>0</span></button>
+                    <button>👍​ <span>0</span></button>
+            </div>
+            </article>
+            <article>
+            <img src="imagem.png"
+            alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <div>
+                <h2>Meu segundo post</h2>
+                <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
+                <p>Boas-Vindas ao meu novo Blog! Aqui vou compartilhar meu conhecimento sobre tecnologia e programação!</p>
+                <button>❤️ <span>0</span></button>
+                <button>👍​ <span>0</span></button>
+            </div>
+            </article>
+        </main>
 </body>
 <script>
     const botoes = document.querySelectorALL("button");
 
-    botoes.forEach(function(botao){
+    botoes.forEach(function (botao) {
         botao.addEventListener("click", botaoClicado)
-        function arraybotaoClicado(){
+        function arraybotaoClicado() {
             console.log("fui clicado");
             let texto = botao.querySelector("span");
             texto.textContent++;
         }
 
-    } )
+    })
 
 </script>
+
 </html>
