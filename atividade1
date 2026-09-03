@@ -44,17 +44,22 @@
         <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
         <p>Boas-Vindas ao meu novo Blog! Aqui vou compartilhar meu conhecimento sobre tecnologia e programação!</p>
         <button>❤️ <span>0</span></button>
+        <button>👍​ <span>0</span></button>
     </div>
     </main>
 </body>
 <script>
-    const botao = document.querySelector("button");
-    botao.addEventListener("click", botaoClicado)
+    const botoes = document.querySelectorALL("button");
 
-    function botaoClicado(){
-        console.log("fui clicado");
-        let texto = botao.querySelector("span");
-        texto.textContent++;
-    }
+    botoes.forEach(function(botao){
+        botao.addEventListener("click", botaoClicado)
+        function arraybotaoClicado(){
+            console.log("fui clicado");
+            let texto = botao.querySelector("span");
+            texto.textContent++;
+        }
+
+    } )
+
 </script>
 </html>
