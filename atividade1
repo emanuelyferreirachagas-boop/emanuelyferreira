@@ -30,16 +30,41 @@
             <img src="imagem.png"
             alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
             <div>
-                <h2>Meu segundo post</h2>
+                <h2>A quantidade de dados no mundo é surreal</h2>
                 <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
-                <p>Boas-Vindas ao meu novo Blog! Aqui vou compartilhar meu conhecimento sobre tecnologia e programação!</p>
+                <p>Estima-se que 90% de todos os dados existentes no mundo hoje foram hoje foram apenas gerados nos ultimos dois anos. Vivemso em uma verdadeira explosão e informação que não para de acelerar.</p>
                 <button>❤️ <span>0</span></button>
                 <button>👍​ <span>0</span></button>
+            </div>
+            </article>
+
+            <article>
+            <img src="imagem.png"
+            alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <div>
+                <h2>O primeiro mouse não era de plástico</h2>
+                <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
+                <p>Antes do design ergonômico e das lues RGB, o prieiro mouse do mundo foi contruído em madeira! Criado por Douglas Engelbard em 1964, ele tinha o formato de uma caixa quadrada e apenas um botão.</p>
+                </article>
+                <button>❤️ <span>0</span></button>
+                <button>👍​ <span>0</span></button>
+            </div>
+
+            <article>
+            <img src="imagem.png"
+                    alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <div>
+                    <h2>Por que o Bluetooth se chama assim?</h2>
+                    <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
+                    <p>O nome é em homenagem ao rei viking Harald Blatand Gormsson, que unificou tribos da Escandinávia. Seu apelido era Harald "Bluetooth" porque seus dentes eram tão podres que tinham uma coloração azul escura.
+                    </p>
+                    <button>❤️ <span>0</span></button>
+                    <button>👍​ <span>0</span></button>
             </div>
             </article>
         </main>
 
         <script src="script.js"></script>
     </body>
-    
+
 </html>
