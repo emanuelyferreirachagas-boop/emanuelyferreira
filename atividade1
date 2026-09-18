@@ -61,10 +61,50 @@
                     <button>❤️ <span>0</span></button>
                     <button>👍​ <span>0</span></button>
             </div>
-            </article>
-        </main>
 
-        <script src="script.js"></script>
-    </body>
+            <article>
+            <img src="imagem.png"
+                    alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <div>
+                    <h2>O "Bug" que era um bicho de verdade</h2>
+                    <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
+                    <p> O termo "bug" (inseto) para erros de software ficou famoso em 1947, quando engenheiros encontraram uma mariposa real presa dentro de um computador Harward Mark II, causando uma falha no sistema.</p>
+                    <button>❤️ <span>0</span></button>
+                    <button>👍​ <span>0</span></button>
+            </div>
+
+            <article>
+            <img src="imagem.png"
+                    alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <div>
+                    <h2>A primeira webcam servia para vigiar café</h2>
+                    <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
+                    <p>Em 1991, pesquisadores da Universidade de Cambridge criaram a primeira webcam para não perderam tempo indo até a cozinha e encontrando a cafeteira sozinha. Eles monitoravam o nível do café em tempo real nos seus monitores.</p>
+                    <button>❤️ <span>0</span></button>
+                    <button>👍​ <span>0</span></button>
+            <div>       
+
+                <article>
+            <img src="imagem.png"
+                    alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <div>
+                    <h2>O primeiro computador não foi a máquina de Turig?</h2>
+                    <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
+                    <p>Apesar de Alan Turing ser conhecido como pai da computação, ele não crio o primeiro computador. Entre os primeiros computadores, um deles foi chamado de Colossus projetado por Tommy Flowers durante a Segunda Guerra Mundial e também, praticamente na mesma época, o ENIAC foi projetado por J. Presper Eckert e John Mauchly.
+                        
+                        <br><br>Embora o Colossus tenha funcionado antes como um "herói de guerra" especializado, o ENIAC é frequentemente chamado de "pai" por ser o primeiro programável de uso geral.
+
+                        <br><br>E aí, qual você consideraria como o primeiro computador?</p>
+
+                        <p>class=""</p>
+
+                    <button>❤️ <span>0</span></button>
+                    <button>👍​ <span>0</span></button>
+            <div>    
+        </article>
+    </main>
+
+    <script src="script.js"></script>
+</body>
 
 </html>
