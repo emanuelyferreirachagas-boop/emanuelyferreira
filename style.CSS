@@ -1,21 +1,39 @@
+body{
+    max-width: 100vw;
+}
+
 header {
             background-color: #183c63;
             color: #FFFFFF;
             text-align: center;
-            max-width: 800px;
             margin: 0 auto;
             padding: 16px;
-            border: 5px solid #FFFFFF;
         }
 
         main {
-            background-color: #ffffff color:#183c63 max-width: 800px;
+            background-color: #ffffff 
+            color #183c63;
             margin: 0 auto;
             padding: 16px;
-            border: 5px solid gray;
+
+            display: flex;
+            flex-wrap: wrap;
         }
         article{
          display: flex;
+
+         border: 1px solid #183c63;
+
+         margin: 16px;
+         gap: 16px;
+         padding: 16px;
+
+         flex: 1 1 25%;
+
+         flex-direction: column;
+         align-items: center;
+         text-align: center;
+         justify-content: center;
         }
 
         img {
