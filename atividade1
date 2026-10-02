@@ -39,8 +39,8 @@
             </article>
 
             <article>
-            <img src="imagem.png"
-            alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <img src="mouse.jpg"
+            alt="Ilustração em pixel art do primeiro mouse de computador, feito em madeira com um botão vermelho.">
             <div>
                 <h2>O primeiro mouse não era de plástico</h2>
                 <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
@@ -51,8 +51,8 @@
             </div>
 
             <article>
-            <img src="imagem.png"
-                    alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <img src="Bluetooth.jpg"
+                    alt="Logótipo do Bluetooth composto pelas runas nórdicas Hagall e Bjarkan em branco, num fundo azul quadrado.">
             <div>
                     <h2>Por que o Bluetooth se chama assim?</h2>
                     <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
@@ -63,8 +63,8 @@
             </div>
 
             <article>
-            <img src="imagem.png"
-                    alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <img src="mariposa.jpg"
+                    alt="Ilustração gráfica em pixel art de uma mariposa marrom, representando o famoso bug de computador de 1947.">
             <div>
                     <h2>O "Bug" que era um bicho de verdade</h2>
                     <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
@@ -74,8 +74,8 @@
             </div>
 
             <article>
-            <img src="imagem.png"
-                    alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <img src="webcam.jpg"
+                    alt="Webcam circular cinzento-escura com lente de vidro central e microfone integrado, fixa sobre um suporte preto com fundo branco plano.">
             <div>
                     <h2>A primeira webcam servia para vigiar café</h2>
                     <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
@@ -85,8 +85,8 @@
             <div>       
 
                 <article>
-            <img src="imagem.png"
-                    alt="Ícone de livro aberto azul com uma engrenagem, uma lâmpada acesa e um capelo de formatura, simbolizando tecnologia e educação">
+            <img src="computador.jpg"
+                    alt="Arte em pixel art de um computador retro dos anos 80 de cor bege, integrado com ecrã CRT de fósforo verde, leitor de disquetes e teclado escuro.">
             <div>
                     <h2>O primeiro computador não foi a máquina de Turig?</h2>
                     <p class="artigo-autor">Por: Emanuely Ferreira Chagas</p>
