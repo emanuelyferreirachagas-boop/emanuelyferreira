@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
-<body>
+<body class="tema-escuro">
     <header>
         <h1>Meu Blog Tech</h1>
         <p>vou compartilhar conhecimentos sobre tecnologia e programação</p>
