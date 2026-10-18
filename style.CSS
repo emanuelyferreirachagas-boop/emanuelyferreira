@@ -78,7 +78,7 @@ header {
             font-weight: bold;
         }
 
-
+        
         .bnt-tema-escuro{
             position: fixed;
             bottom: 16px;
@@ -88,3 +88,4 @@ header {
             background-color: var(--cor-primaria);
             border-radius: 50%;
         }
+ 
